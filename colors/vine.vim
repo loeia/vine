@@ -14,8 +14,7 @@ highlight String guifg=#c0a89e
 highlight Comment guifg=#727272
 highlight Constant guifg=#d3a4ff
 highlight Statement guifg=#00b89f 
-highlight CursorLineNr cterm=NONE 
-highlight CursorLineNr guifg=#ff69b4
+highlight CursorLineNr cterm=NONE guifg=#ff69b4
 highlight Normal guibg=#343434 guifg=#cccccc  
 highlight Function guifg=#ff69b4 ctermfg=197
 highlight Identifier guifg=#ffaabb ctermfg=94 
@@ -30,7 +29,7 @@ highlight StatusLineNC ctermfg=231 ctermbg=241 cterm=NONE guifg=#cccccc guibg=#6
 highlight MatchParen ctermfg=197 ctermbg=NONE cterm=NONE guifg=#88ffcc guibg=NONE gui=underline
 highlight Todo ctermfg=95 ctermbg=NONE cterm=inverse,bold guifg=#98d6ff guibg=NONE gui=inverse,bold
 highlight Normal guibg=#000000 ctermbg=0
-highlight LineNr guibg=#000000 ctermbg=0
+highlight LineNr guifg=#f0f0f0 ctermfg=255
 highlight SignColumn guibg=#000000 ctermbg=0
 highlight Delimiter guifg=#c0c0c0 ctermfg=79
 highlight Builtin guifg=#87cefa ctermfg=81
