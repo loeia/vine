@@ -29,7 +29,7 @@ highlight StatusLineNC ctermfg=231 ctermbg=241 cterm=NONE guifg=#cccccc guibg=#6
 highlight MatchParen ctermfg=197 ctermbg=NONE cterm=NONE guifg=#88ffcc guibg=NONE gui=underline
 highlight Todo ctermfg=95 ctermbg=NONE cterm=inverse,bold guifg=#98d6ff guibg=NONE gui=inverse,bold
 highlight Normal guibg=#000000 ctermbg=0
-highlight LineNr guifg=#f0f0f0 ctermfg=255
+highlight LineNr guifg=#e0e0e0 ctermfg=79
 highlight SignColumn guibg=#000000 ctermbg=0
 highlight Delimiter guifg=#c0c0c0 ctermfg=79
 highlight Builtin guifg=#87cefa ctermfg=81
