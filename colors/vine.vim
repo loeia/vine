@@ -14,7 +14,8 @@ highlight String guifg=#c0a89e
 highlight Comment guifg=#727272
 highlight Constant guifg=#d3a4ff
 highlight Statement guifg=#00b89f 
-highlight CursorLineNr cterm=NONE guifg=#ff69b4
+highlight CursorLineNr cterm=NONE 
+highlight CursorLineNr guifg=#ff69b4
 highlight Normal guibg=#343434 guifg=#cccccc  
 highlight Function guifg=#ff69b4 ctermfg=197
 highlight Identifier guifg=#ffaabb ctermfg=94 
