@@ -35,3 +35,7 @@ highlight Builtin guifg=#87cefa ctermfg=81
 
 " Go 
 highlight goBuiltins guifg=#87cefa ctermfg=81
+
+" coc.nvim 
+highlight! link CocUnusedHighlight NONE
+highlight CocUnusedHighlight gui=underline guibg=NONE guifg=NONE
