@@ -1,3 +1,2 @@
 # Vine
-A Vim theme.
-
+![theme](./screenshots/vine.png)
